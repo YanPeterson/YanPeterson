@@ -72,11 +72,4 @@ Sou focado, curioso e sempre em busca de aprender novas tecnologias. Estou pront
 <br/>
 <br/>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanPeterson&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
